@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/argha/PycharmProjects/pythonpractise1/mlruns/293602419003483805/103f6e301c884bea9980d14647719a9c/artifacts
+end_time: 1727362459826
+entry_point_name: ''
+experiment_id: '293602419003483805'
+lifecycle_stage: active
+run_id: 103f6e301c884bea9980d14647719a9c
+run_name: rogue-colt-512
+run_uuid: 103f6e301c884bea9980d14647719a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727362369674
+status: 3
+tags: []
+user_id: argha

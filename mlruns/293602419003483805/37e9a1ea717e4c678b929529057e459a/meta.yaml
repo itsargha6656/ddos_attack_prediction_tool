@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/argha/PycharmProjects/pythonpractise1/mlruns/293602419003483805/37e9a1ea717e4c678b929529057e459a/artifacts
+end_time: 1729163791207
+entry_point_name: ''
+experiment_id: '293602419003483805'
+lifecycle_stage: active
+run_id: 37e9a1ea717e4c678b929529057e459a
+run_name: awesome-hawk-172
+run_uuid: 37e9a1ea717e4c678b929529057e459a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729163753795
+status: 3
+tags: []
+user_id: argha

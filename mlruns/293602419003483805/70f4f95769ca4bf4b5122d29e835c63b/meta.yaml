@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/argha/PycharmProjects/pythonpractise1/mlruns/293602419003483805/70f4f95769ca4bf4b5122d29e835c63b/artifacts
+end_time: 1727358472952
+entry_point_name: ''
+experiment_id: '293602419003483805'
+lifecycle_stage: active
+run_id: 70f4f95769ca4bf4b5122d29e835c63b
+run_name: selective-carp-671
+run_uuid: 70f4f95769ca4bf4b5122d29e835c63b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727358386887
+status: 3
+tags: []
+user_id: argha

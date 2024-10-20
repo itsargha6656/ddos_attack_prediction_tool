@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/argha/PycharmProjects/pythonpractise1/mlruns/293602419003483805/1a1bc1095a6f4ae9b9d959141f1e4cee/artifacts
+end_time: 1727356629521
+entry_point_name: ''
+experiment_id: '293602419003483805'
+lifecycle_stage: active
+run_id: 1a1bc1095a6f4ae9b9d959141f1e4cee
+run_name: powerful-stoat-492
+run_uuid: 1a1bc1095a6f4ae9b9d959141f1e4cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727356571310
+status: 4
+tags: []
+user_id: argha

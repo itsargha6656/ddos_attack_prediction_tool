@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/argha/PycharmProjects/pythonpractise1/mlruns/293602419003483805/5ea0dfcb826c436896a4cddceca3cf61/artifacts
+end_time: 1727356932624
+entry_point_name: ''
+experiment_id: '293602419003483805'
+lifecycle_stage: active
+run_id: 5ea0dfcb826c436896a4cddceca3cf61
+run_name: nimble-crab-52
+run_uuid: 5ea0dfcb826c436896a4cddceca3cf61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727356873917
+status: 4
+tags: []
+user_id: argha

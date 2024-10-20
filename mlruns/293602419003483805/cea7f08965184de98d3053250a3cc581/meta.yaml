@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/argha/PycharmProjects/pythonpractise1/mlruns/293602419003483805/cea7f08965184de98d3053250a3cc581/artifacts
+end_time: 1727358073227
+entry_point_name: ''
+experiment_id: '293602419003483805'
+lifecycle_stage: active
+run_id: cea7f08965184de98d3053250a3cc581
+run_name: selective-hog-579
+run_uuid: cea7f08965184de98d3053250a3cc581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727358073210
+status: 4
+tags: []
+user_id: argha

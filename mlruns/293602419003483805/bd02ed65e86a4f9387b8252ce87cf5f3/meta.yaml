@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/argha/PycharmProjects/pythonpractise1/mlruns/293602419003483805/bd02ed65e86a4f9387b8252ce87cf5f3/artifacts
+end_time: 1727357456559
+entry_point_name: ''
+experiment_id: '293602419003483805'
+lifecycle_stage: active
+run_id: bd02ed65e86a4f9387b8252ce87cf5f3
+run_name: unique-lark-522
+run_uuid: bd02ed65e86a4f9387b8252ce87cf5f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727357392874
+status: 3
+tags: []
+user_id: argha

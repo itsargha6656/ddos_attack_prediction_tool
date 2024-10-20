@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/argha/PycharmProjects/pythonpractise1/mlruns/293602419003483805/311115120a5a4023920b731064321a89/artifacts
+end_time: 1729163323687
+entry_point_name: ''
+experiment_id: '293602419003483805'
+lifecycle_stage: active
+run_id: 311115120a5a4023920b731064321a89
+run_name: stately-seal-80
+run_uuid: 311115120a5a4023920b731064321a89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729163289718
+status: 3
+tags: []
+user_id: argha
